@@ -1,0 +1,20 @@
+mode: set
+github.com/filipeandrade6/framer-psgr-download/main.go:10.13,12.16 2 0
+github.com/filipeandrade6/framer-psgr-download/main.go:12.16,14.3 1 0
+github.com/filipeandrade6/framer-psgr-download/main.go:16.2,16.28 1 0
+github.com/filipeandrade6/framer-psgr-download/controllers/awslambda/handler.go:17.44,19.2 1 0
+github.com/filipeandrade6/framer-psgr-download/controllers/awslambda/handler.go:21.130,23.15 2 0
+github.com/filipeandrade6/framer-psgr-download/controllers/awslambda/handler.go:23.15,28.3 1 0
+github.com/filipeandrade6/framer-psgr-download/controllers/awslambda/handler.go:30.2,31.16 2 0
+github.com/filipeandrade6/framer-psgr-download/controllers/awslambda/handler.go:31.16,36.3 1 0
+github.com/filipeandrade6/framer-psgr-download/controllers/awslambda/handler.go:38.2,41.8 1 0
+github.com/filipeandrade6/framer-psgr-download/controllers/awslambda/start.go:9.37,12.2 2 0
+github.com/filipeandrade6/framer-psgr-download/adapters/presigner/awss3/s3.go:18.31,20.16 2 0
+github.com/filipeandrade6/framer-psgr-download/adapters/presigner/awss3/s3.go:20.16,22.3 1 0
+github.com/filipeandrade6/framer-psgr-download/adapters/presigner/awss3/s3.go:23.2,25.28 2 0
+github.com/filipeandrade6/framer-psgr-download/adapters/presigner/awss3/s3.go:28.79,37.16 5 0
+github.com/filipeandrade6/framer-psgr-download/adapters/presigner/awss3/s3.go:37.16,39.3 1 0
+github.com/filipeandrade6/framer-psgr-download/adapters/presigner/awss3/s3.go:41.2,41.30 1 0
+github.com/filipeandrade6/framer-psgr-download/domain/service/generator.go:11.71,13.16 2 1
+github.com/filipeandrade6/framer-psgr-download/domain/service/generator.go:13.16,17.3 3 1
+github.com/filipeandrade6/framer-psgr-download/domain/service/generator.go:19.2,19.17 1 1
